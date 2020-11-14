@@ -867,7 +867,11 @@ a {
 .cid-sgkgvDAb9c {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #353535;
+  background-image: url("../../../assets/images/stone-1024x1024.png");
+}
+.cid-sgkgvDAb9c .mbr-overlay {
+  background: #353535;
+  opacity: 0.9;
 }
 .cid-sgkgvDAb9c img,
 .cid-sgkgvDAb9c .item-img {
@@ -2868,7 +2872,7 @@ a {
 .cid-sgkDCkWLwQ {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-image: url("../../../assets/images/stone-1-1024x1024.png");
+  background-image: url("../../../assets/images/stone-1024x1024.png");
 }
 .cid-sgkDCkWLwQ .oldcost {
   text-decoration: line-through;
